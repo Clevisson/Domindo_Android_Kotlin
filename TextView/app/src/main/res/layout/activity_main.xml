@@ -1,0 +1,69 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:contex="dominando.android.textview.MainActivity">
+
+    <TextView
+        android:id="@+id/txtAutolink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="phone|email|web"
+        android:text="Clevisson Ribeiro
+        \nEmail: clevissonalgebra@gmail.com
+        \nfone: 999487596
+        \nURL: http://Kotlin.com">
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtBigtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="Aquieta minha alma, faz meu coração ouvir tua voz, só assim eu não me sinto só"
+            android:textSize="28sp" />
+        <TextView
+            android:id="@+id/txtMonospaced"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Font Monospace"
+            android:typeface="monospace"
+            />
+
+        <TextView
+            android:id="@+id/txtFonte"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/frijole_regular"
+            android:text="Fonte customizada"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txtStrike"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Texto Strike"
+            android:textSize="20sp" />
+        
+        <TextView
+            android:id="@+id/txthtml"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        
+
+        <TextView
+            android:id="@+id/txtSpan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:bufferType="spannable" />
+    </LinearLayout>
+</ScrollView>
+
+

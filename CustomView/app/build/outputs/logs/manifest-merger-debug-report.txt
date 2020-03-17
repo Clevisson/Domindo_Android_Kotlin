@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/clevisson/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/36589c2173b245e866687a5f79b39240/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/75e8d243cb23f64425b62e894dec1508/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/clevisson/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fe97b353d770e4334dbebd00e62a74b5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3c22132206cd2ae228f861c6fc83ffd8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/77b9d3688490dd2864dc13650656b59a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9f13c0d6d146b649b8dde03ef797489d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ca35eda1a94330f6c6f2f9ea78c6a5a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/dc2e21275bac7a1aea123a548cf5727a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ca62f33a4cb4ec92d6aaa034a916b37c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/05c2bfc36f5c9d95f5b0e49b8ccc2ce1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/92ec2a89fad675fb3d149fe9ef8250fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/79afec0f1f774eb8ac7d63362a624844/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/82d313a1b902af2eba7d03e1320e5e5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8c30ccf1f89e684536c35a88d2a78ce0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/bc50f25a73f4f2d86681364cc348c646/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d883b24c79fda7aea8199893cab7b573/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/77bd8a687a16694ac3af93df1825af9f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ee42d42562d7d216f33be738bc54a5b8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/799a246bd0aba0f6e9e7eab6b3194d6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0e0ed9d369ecb10f3995610ab1ce572c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/94da6708865fc9b2a1639f3e5c79fcf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c3df8417981055857aa2b308939693fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7b00724519b2c94d121c795fb98d9b1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/968282598521b84376ec66f9cdfcee2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9315c226249cb22889ce9999bffadc62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/49b21fecd071773181baf3f9d1c4c9cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/07fb2c5685f337e162669dc87df82902/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/617111b484255ed8a5cbe3977fc1c8ba/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:3:11-49
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/clevisson/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fe97b353d770e4334dbebd00e62a74b5/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/clevisson/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fe97b353d770e4334dbebd00e62a74b5/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/77bd8a687a16694ac3af93df1825af9f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/77bd8a687a16694ac3af93df1825af9f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ee42d42562d7d216f33be738bc54a5b8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ee42d42562d7d216f33be738bc54a5b8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/77bd8a687a16694ac3af93df1825af9f/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:11:13-44
+activity#dominando.android.customview.MainActivity
+ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/clevisson/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/36589c2173b245e866687a5f79b39240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/clevisson/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/36589c2173b245e866687a5f79b39240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/75e8d243cb23f64425b62e894dec1508/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/75e8d243cb23f64425b62e894dec1508/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/clevisson/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fe97b353d770e4334dbebd00e62a74b5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/clevisson/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/fe97b353d770e4334dbebd00e62a74b5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3c22132206cd2ae228f861c6fc83ffd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3c22132206cd2ae228f861c6fc83ffd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/77b9d3688490dd2864dc13650656b59a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/77b9d3688490dd2864dc13650656b59a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9f13c0d6d146b649b8dde03ef797489d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9f13c0d6d146b649b8dde03ef797489d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ca35eda1a94330f6c6f2f9ea78c6a5a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ca35eda1a94330f6c6f2f9ea78c6a5a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/dc2e21275bac7a1aea123a548cf5727a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/dc2e21275bac7a1aea123a548cf5727a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ca62f33a4cb4ec92d6aaa034a916b37c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ca62f33a4cb4ec92d6aaa034a916b37c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/05c2bfc36f5c9d95f5b0e49b8ccc2ce1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/05c2bfc36f5c9d95f5b0e49b8ccc2ce1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/92ec2a89fad675fb3d149fe9ef8250fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/92ec2a89fad675fb3d149fe9ef8250fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/79afec0f1f774eb8ac7d63362a624844/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/79afec0f1f774eb8ac7d63362a624844/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/82d313a1b902af2eba7d03e1320e5e5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/82d313a1b902af2eba7d03e1320e5e5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8c30ccf1f89e684536c35a88d2a78ce0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8c30ccf1f89e684536c35a88d2a78ce0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/bc50f25a73f4f2d86681364cc348c646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/bc50f25a73f4f2d86681364cc348c646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d883b24c79fda7aea8199893cab7b573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d883b24c79fda7aea8199893cab7b573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/77bd8a687a16694ac3af93df1825af9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/77bd8a687a16694ac3af93df1825af9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ee42d42562d7d216f33be738bc54a5b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ee42d42562d7d216f33be738bc54a5b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/799a246bd0aba0f6e9e7eab6b3194d6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/799a246bd0aba0f6e9e7eab6b3194d6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0e0ed9d369ecb10f3995610ab1ce572c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0e0ed9d369ecb10f3995610ab1ce572c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/94da6708865fc9b2a1639f3e5c79fcf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/94da6708865fc9b2a1639f3e5c79fcf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c3df8417981055857aa2b308939693fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c3df8417981055857aa2b308939693fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7b00724519b2c94d121c795fb98d9b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7b00724519b2c94d121c795fb98d9b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/968282598521b84376ec66f9cdfcee2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/968282598521b84376ec66f9cdfcee2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9315c226249cb22889ce9999bffadc62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9315c226249cb22889ce9999bffadc62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/49b21fecd071773181baf3f9d1c4c9cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/49b21fecd071773181baf3f9d1c4c9cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/07fb2c5685f337e162669dc87df82902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/07fb2c5685f337e162669dc87df82902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/617111b484255ed8a5cbe3977fc1c8ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/clevisson/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/617111b484255ed8a5cbe3977fc1c8ba/AndroidManifest.xml:20:5-44
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+		ADDED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clevisson/Downloads/dominando_android3-master/Cap06/CustomView/app/src/main/AndroidManifest.xml
