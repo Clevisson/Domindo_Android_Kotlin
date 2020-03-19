@@ -6,14 +6,39 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ef7977-ad96-4e2b-9e15-c5fd2d0e823e" name="Default Changelist" comment="" />
+    <list default="true" id="d1ef7977-ad96-4e2b-9e15-c5fd2d0e823e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/AboutDialogFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelFormFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelFormPresenter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelFormView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelValidator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Dominando_Android_Kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Dominando_Android_Kotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/Hotel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/Hotel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsPresenter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsPresenter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelDetailsView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelListPresenter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelListPresenter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelListView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelListView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/HotelRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/MemoryRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dominando/android/fragments/MemoryRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_XL_API_28" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -39,6 +64,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="10027171-c354-4d7a-8bfd-50f07eb530c3" />
+  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -60,7 +88,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
@@ -154,5 +183,16 @@
       <updated>1581702944935</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

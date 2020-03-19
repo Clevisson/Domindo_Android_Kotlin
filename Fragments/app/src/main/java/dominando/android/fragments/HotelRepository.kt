@@ -1,7 +1,5 @@
 package dominando.android.fragments
 
-import javax.security.auth.callback.Callback
-
 interface HotelRepository {
     fun save(hotel: Hotel)
     fun remove(vararg hotels: Hotel)
